@@ -1,0 +1,55 @@
+Fordonsnummer:1
+Ägare:1
+Max antal passagerare:12
+Antal hjul:4
+Köpdatum:2023-05-20
+Garantitid:0.0
+Inköpspris:1000.0
+Värde:200.0
+FordonsTyp:Personbil
+BagageUtrymmeVolym:12.0
+
+Fordonsnummer:oo
+Ägare:4
+Max antal passagerare:12
+Antal hjul:4
+Köpdatum:2023-05-23
+Garantitid:3.0
+Inköpspris:1000.0
+Värde:478.29690000000005
+FordonsTyp:Personbil
+BagageUtrymmeVolym:12.0
+
+Fordonsnummer:yeh
+Ägare:1
+Max antal passagerare:12
+Antal hjul:4
+Köpdatum:2023-05-24
+Garantitid:9.0
+Inköpspris:10000.0
+Värde:9000.0
+FordonsTyp:Personbil
+BagageUtrymmeVolym:12.0
+
+Fordonsnummer:bel123
+Ägare:4
+Max antal passagerare:21
+Antal hjul:4
+Köpdatum:2023-05-24
+Garantitid:9.0
+Inköpspris:20000.0
+Värde:18000.0
+FordonsTyp:Personbil
+BagageUtrymmeVolym:12.0
+
+Fordonsnummer:0
+Ägare:5
+Max antal passagerare:12
+Antal hjul:4
+Köpdatum:2023-05-24
+Garantitid:10.0
+Inköpspris:10000.0
+Värde:10000.0
+FordonsTyp:Personbil
+BagageUtrymmeVolym:12.0
+
